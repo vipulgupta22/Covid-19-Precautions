@@ -137,3 +137,39 @@
     font-size: 30px;
     text-align: center;
 }
+#box5{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+}
+#box5 img{
+    padding: 20px;
+    width: 30%;
+    height: auto;
+}
+#box5 img:hover{
+    transform: scale(1.1);
+}
+#box6{
+    width:100%;
+    height: auto;
+    background-color: black;
+}
+#box61{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#box6 img{
+    padding: 20px;
+    width: 30%;
+    height: auto;
+}
+#box6 img:hover{
+    transform: scale(1.1);
+}
