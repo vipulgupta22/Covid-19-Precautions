@@ -86,24 +86,33 @@
     padding-top: 20px;
 }
 #box321{
-    display: flex;
-    justify-content:center;
-    align-items: center;
-    width: 100%;
     height: auto;
     padding-bottom: 20px;
+    width: 30%;
+}
+#box31 h3{
+    text-align: center;
+}
+#box332{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+#box332 h3{
+    text-align: center;
+    padding: 10px;
 }
 #pre,#pre2{
     display: flex;
     justify-content:center;
     align-items: center;
-    width: 30%;
-    height:210px;
 }
 #pre2{
     justify-content: left;
 }
 #box321 img{
+    padding-bottom: 10px;
     width: 200px;
     height: 200px;
 }
